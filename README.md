@@ -8,6 +8,7 @@
 ### [Gravitas: A 2D Tower Defense Indie Game](https://misakizzzzz.itch.io/gravitas) 
 ![C#](https://img.shields.io/badge/Language-C%23-blueviolet) ![Unity](https://img.shields.io/badge/Tool-Unity-000000?logo=unity&logoColor=white) ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white) [![Static Badge](https://img.shields.io/badge/Download%20at%20itch.io-purple)](https://misakizzzzz.itch.io/gravitas) 
 
+- An indie game for the VGDC game jam @ UCSD, in a great team of 2 programmers and 1 writer.
 - Featured a **gravity-based battlefield**, where units have weights that influences the land's balance.
 - Units and projectiles now affected by gravity, leading to a more fun and strategic tower defense game.
 - Act as a saviour to save the world of magic, restoring the balance between light and darkness.
