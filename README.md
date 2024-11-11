@@ -25,46 +25,100 @@
 </table>
 
 - (And...I also contributed to some Easter egg's art assets!)
-<div style="text-align: center">
+<center>
     <img src="./images/Gravitas_Showcase_Pawn.png" alt="Gravitas_Showcase_Pawn" width="200" style="border-radius: 18px;">
-</div>
+</center>
 <br></br>
 
 
-### [Shared Canvas: An In-person Collaboration App on iOS/iPadOS](https://github.com/Samekichi/iOS-App-Projects)
-![Swift](https://img.shields.io/badge/Language-Swift-FA7343?logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/Tool-Xcode-3AA6D8?logo=xcode&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-E28330?logo=swift&logoColor=white) ![Swift Data](https://img.shields.io/badge/Swift%20Data-E28330?logo=swift&logoColor=white) ![Multi Peer](https://img.shields.io/badge/Multi%20Peer-E28330?logo=swift&logoColor=white)
+### [Shared Canvas: An In-person Collaboration App on iOS/iPadOS](https://github.com/Samekichi/iOS-App-Projects/tree/main/Shared%20Canvas)
+![Swift](https://img.shields.io/badge/Language-Swift-FA7343?logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/IDE-Xcode-3AA6D8?logo=xcode&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-E28330?logo=swift&logoColor=white) ![Swift Data](https://img.shields.io/badge/Swift%20Data-E28330?logo=swift&logoColor=white) ![Multi Peer](https://img.shields.io/badge/Multi%20Peer-E28330?logo=swift&logoColor=white)
 
 - Focused on small groups of in-person meetings.
-- User-friendly and responsive canvas view with scribble, eraser, and shape features.
+- Consists of Canvas List view, Connection view, Canvas view, and various pop-ups for canvas settings, color picker, and scribble / eraser / shape tool customizations.
 - Share current canvas with nearby people, or join nearby sessions.
 - Utilized **Multi-Peer Framework** for canvas hosting / data synchronization between endpoints.
 - Leveraged `Codable` data structure to persist and transfer canvases using `JSON` or **Swift Data**.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 90px;">
-  <div style="text-align: center;">
-    <img src="./images/SharedCanvas_Prototype.PNG" alt="Prototype of Shared Canvas App" height="300">
-    <p style="color: gray; font-size: 14px;">Prototype</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="./images/SharedCanvas_Canvas.PNG" alt="Canvas of Shared Canvas App" height="300">
-    <p style="color: gray; font-size: 14px;">Running on a real device</p>
-  </div>
-</div>
+<center>
+<img src="./images/SharedCanvas_PrototypeAndCanvas.PNG" alt="Prototype of Shared Canvas App" height="300">
+<p style="color: gray; font-size: 14px;"><b>Prototype</b> (Left)  and  <b>Running on a real device</b> (Right)</p>
+</center>
+<br></br>
 
 
-### Faruzan Senpai: A Discord Bot for My Private Server 
+### [Faruzan Senpai: A Discord Bot for My Private Server](https://github.com/Samekichi/DiscordBot-Faruzan_Senpai)
+ ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Discord.js](https://img.shields.io/badge/Library-Discord.js-5865F2?logo=discord&logoColor=white) ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+- A Discord Bot for my private server need (messages are in zh_CN, but multilingual support is planned), such as:
+    - User's daily luck
+    - Game server time getter
+    - Slash Command stats
+    - Basic game Wiki inquiry
+    - ...
+- Was once hosted on Repl.it with its built-in database and stayed alive by up-timer services.
+- (WIP) Migrate to AWS with a local relational database.
+<center>
+<img src="./images/FaruzanSenpai_Showcase.PNG" alt="Faruzan Senpai's working command responses showcase" height="300">
+<p style="color: gray; font-size: 14px;">Some working command responses (in zh_CN)</p>
+</center>
+<br></br>
 
 
+### [MC Marketplace: Prototype of a Game Item Marketplace on Ethereum](https://github.com/Samekichi/Prototype-Trade-Web3-DApp)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Solidity](https://img.shields.io/badge/Language-Solidity-363636?logo=solidity&logoColor=white) ![VS Code](https://img.shields.io/badge/Tool-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs&logoColor=white) ![Web3.js](https://img.shields.io/badge/Library-Web3.js-F16822?logo=javascript&logoColor=white)
+ ![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white) ![Sepolia Testnet](https://img.shields.io/badge/Sepolia-3C3C3D?logo=ethereum&logoColor=white) ![Alchemy](https://img.shields.io/badge/Platform-Alchemy-0E76FD?logo=alchemy&logoColor=white)
+
+- Implemented a simple front end for the marketplace with connection to MetaMask wallet.
+- Make ABI calls to the smart contract deployed on Ethereum's Test Network.
+- Validated real-world blockchain connection and trades on Sepolia Test Network through Alchemy.
+
+<center>
+<img src="./images/TradeDApp_Showcase_Marketplace.jpg" alt="TradeDApp_Showcase_Marketplace" height="300">
+<p style="color: gray; font-size: 14px;">Marketplace with test items</p>
+<img src="./images/TradeDApp_Showcase_Inventory.jpg" alt="TradeDApp_Showcase_Inventory" height="300">
+<p style="color: gray; font-size: 14px;">Inventory with item status & Putting Item #9 off sale</p>
+</center>
+<br></br>
 
 
-### MC Marketplace: Prototype of a Game Item Marketplace on Ethereum
+### [iOS/iPadOS mini Apps](https://github.com/Samekichi/iOS-App-Projects)
 
+- A set of iOS Apps that practices my skill. Mostly based on SwiftUI and MVVM principle, with some UIKit and MapKit hacks.
 
-### iOS/iPadOS mini Apps
+    1. **Spelling Challenge**
+        - A **word-spelling game** for 3 languages (`en_US`, `fr_FR`, `de_DE`).
+        - Support word length of 4~6 (with different layouts), history, shuffle, hint, and restart.
+        - Beautiful UI in both light & dark mode.
+        <center>
+        <img src="./images/iOSApp_LionSpell.PNG" alt="iOSApp_LionSpell" height="400">
+        <p style="color: gray; font-size: 14px;">Before and after solved (simulated on 11' and 12.9' iPad Pro)</p>
+        </center>
+        <br></br>
+    2. **Pentominoes**
+        - A **puzzle game** in which player needs to form different patterns using all pentominoes.
+        - Support reset and auto-solve.
+        - Fluent and beautiful animations based on gesture and piece status.
+        <center>
+        <img src="./images/iOSApp_Pentominoes_Before_and_after_solved.PNG" alt="iOSApp_Pentominoes_Before_and_after_solved" height="400">
+        <p style="color: gray; font-size: 14px;">Before and after solved (simulated on 11' and 12.9' iPad Pro)</p>
+        </center>
+        <br></br>
+    3. **Campus Map**
+        - A **campus map** with data of all on-campus buildings.
+        - Support favorites, search, filter, data persistence across launches, pins and pop-ups, and step-by-step routing between 2 buildings or from / to current location.
+        <center>
+        <img src="./images/iOSApp_CampusMap_Showcase.PNG" alt="iOSApp_CampusMap_Showcase" height="360">
+        <p style="color: gray; font-size: 14px;">Map overview; Building detail and buttons; Route planning; and Step-by-step routing.</p>
+        </center>
+        <br></br>
 
 
 ## Courseworks
+
+
 ### SVE-Optimized Matrix Multiplication
+
 
 
 ### Simulation of OS Components - CPU & I/O Task Scheduler, Memory & Disk, File System
