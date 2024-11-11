@@ -41,7 +41,7 @@
 - Leveraged `Codable` data structure to persist and transfer canvases using `JSON` or **Swift Data**.
 
 <center>
-<img src="./images/SharedCanvas_PrototypeAndCanvas.PNG" alt="Prototype of Shared Canvas App" height="300">
+<img src="./images/SharedCanvas_PrototypeAndCanvas.png" alt="Prototype of Shared Canvas App" height="300">
 <p style="color: gray; font-size: 14px;"><b>Prototype</b> (Left)  and  <b>Running on a real device</b> (Right)</p>
 </center>
 <br></br>
@@ -59,7 +59,7 @@
 - Was once hosted on Repl.it with its built-in database and stayed alive by up-timer services.
 - (WIP) Migrate to AWS with a local relational database.
 <center>
-<img src="./images/FaruzanSenpai_Showcase.PNG" alt="Faruzan Senpai's working command responses showcase" height="300">
+<img src="./images/FaruzanSenpai_Showcase.png" alt="Faruzan Senpai's working command responses showcase" height="300">
 <p style="color: gray; font-size: 14px;">Some working command responses (in zh_CN)</p>
 </center>
 <br></br>
@@ -91,7 +91,7 @@
         - Support word length of 4~6 (with different layouts), history, shuffle, hint, and restart.
         - Beautiful UI in both light & dark mode.
         <center>
-        <img src="./images/iOSApp_LionSpell.PNG" alt="iOSApp_LionSpell" height="400">
+        <img src="./images/iOSApp_LionSpell.png" alt="iOSApp_LionSpell" height="400">
         <p style="color: gray; font-size: 14px;">Before and after solved (simulated on 11' and 12.9' iPad Pro)</p>
         </center>
         <br></br>
@@ -100,7 +100,7 @@
         - Support reset and auto-solve.
         - Fluent and beautiful animations based on gesture and piece status.
         <center>
-        <img src="./images/iOSApp_Pentominoes_Before_and_after_solved.PNG" alt="iOSApp_Pentominoes_Before_and_after_solved" height="400">
+        <img src="./images/iOSApp_Pentominoes_Before_and_after_solved.png" alt="iOSApp_Pentominoes_Before_and_after_solved" height="400">
         <p style="color: gray; font-size: 14px;">Before and after solved (simulated on 11' and 12.9' iPad Pro)</p>
         </center>
         <br></br>
@@ -108,7 +108,7 @@
         - A **campus map** with data of all on-campus buildings.
         - Support favorites, search, filter, data persistence across launches, pins and pop-ups, and step-by-step routing between 2 buildings or from / to current location.
         <center>
-        <img src="./images/iOSApp_CampusMap_Showcase.PNG" alt="iOSApp_CampusMap_Showcase" height="360">
+        <img src="./images/iOSApp_CampusMap_Showcase.png" alt="iOSApp_CampusMap_Showcase" height="360">
         <p style="color: gray; font-size: 14px;">Map overview; Building detail and buttons; Route planning; and Step-by-step routing.</p>
         </center>
         <br></br>
