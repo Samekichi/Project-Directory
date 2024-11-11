@@ -90,11 +90,11 @@
 
     1. **Spelling Challenge**
         - A **word-spelling game** for 3 languages (`en_US`, `fr_FR`, `de_DE`).
-        - Support word length of 4~6 (with different layouts), history, shuffle, hint, and restart.
+        - Support # of candidate characters of 4~6 (with different layouts), history, shuffle, hint, and restart.
         - Beautiful UI in both light & dark mode.
         <center>
         <img src="./images/iOSApp_LionSpell.png" alt="iOSApp_LionSpell" height="400">
-        <p style="color: gray; font-size: 14px;">Before and after solved (simulated on 11' and 12.9' iPad Pro)</p>
+        <p style="color: gray; font-size: 14px;">Solving a 6-char game in dark mode</p>
         </center>
         <br></br>
     2. **Pentominoes**
