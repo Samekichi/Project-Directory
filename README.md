@@ -10,7 +10,7 @@
 
 - An indie game for the VGDC game jam @ UCSD, in a great team of 2 programmers and 1 writer.
 - Featured a **gravity-based battlefield**, where units have weights that influences the land's balance.
-- Units and projectiles now affected by gravity, leading to a more fun and strategic tower defense game.
+- Units and projectiles now affected by gravity, leading to a more fun and strategic tower defense experience.
 - Act as a saviour to save the world of magic, restoring the balance between light and darkness.
 - Summon all heroes from the ancient past to fight against the wicked enemies.
 
