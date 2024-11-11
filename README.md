@@ -69,8 +69,8 @@
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Solidity](https://img.shields.io/badge/Language-Solidity-363636?logo=solidity&logoColor=white) ![VS Code](https://img.shields.io/badge/Tool-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs&logoColor=white) ![Web3.js](https://img.shields.io/badge/Library-Web3.js-F16822?logo=javascript&logoColor=white)
  ![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white) ![Sepolia Testnet](https://img.shields.io/badge/Sepolia-3C3C3D?logo=ethereum&logoColor=white) ![Alchemy](https://img.shields.io/badge/Platform-Alchemy-0E76FD?logo=alchemy&logoColor=white)
 
-- Implemented a simple front end for the marketplace with connection to MetaMask wallet.
-- Make ABI calls to the smart contract deployed on Ethereum's Test Network.
+- Designed a smart contract which later deployed on Ethereum's Test Network.
+- Implemented a simple front end for the marketplace with connection to MetaMask wallet and ABI's of the smart contract.
 - Validated real-world blockchain connection and trades on Sepolia Test Network through Alchemy.
 
 <center>
