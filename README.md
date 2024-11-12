@@ -113,17 +113,45 @@
         <p style="color: gray; font-size: 14px;">Map overview; Building detail and buttons; Route planning; and Step-by-step routing.</p>
         </center>
         <br></br>
-
+    4. **Pokédex**
+        - A **Pokémon collection** with attribute inquiry, ancestor and successor, and “captured” labels.
+        - Dynamically render transition color, index, and status in both List and Detail Views.
+        <center>
+        <img src="./images/Pokedex_Showcases.png" alt="Pokedex_Showcases" height="360">
+        <p style="color: gray; font-size: 14px;">Home screen; Detail View; List of Fire Pokémons; "Our favorite!";  Ancestor and successor.</p>
+        </center>
+        <br></br>
 
 ## Courseworks
 
 
 ### SVE-Optimized Matrix Multiplication
-
-
-
-### Simulation of OS Components - CPU & I/O Task Scheduler, Memory & Disk, File System
-
+- Implemented and modified BLISlab GEMM blocking algorithm in C.
+- Improve row-major matrix multiplication efficiency, reducing cache misses on AWS Ubuntu machines by more than 33%.
+- Accelerated microkernel by 4x with ARM SVE, loop unrolling, and pointer techniques (comparing to naïve).
 
 ### Java Painting GUI
+- A Painter GUI implemented using Java with `SpringLayout`.
+- Support 1st / 2nd colors, different shapes and lines, and options including stroke parameter, filled, gradients, and dashed.
+  <br></br>
+  <center>
+  <img src="./images/PaintingGUI.png" alt="PaintingGUI by Java and SpringLayout" height="360">
+  <p style="color: gray; font-size: 14px;">My masterpiece of a beautiful scenary!</p>
+  </center>
+  <br></br>
+
+### User-Book Read and Rating Prediction for Recommendar System
+- Predict *whether a user reads a book* in various approaches and compared their performance, including:
+  - Logistic Regression
+  - Bayesian Personalized Ranking (Implicit)
+  - *Trivial thresholds based on Popularity & Jaccard / CosineSet Similarities
+- Predict *a user's rating on a given book*:
+  - *BiasOnly Latent Factor Model (Surprise, Tenserflow, & PyTorch)
+  - Latent Factor Model w/ Dimensionality Reduction (Tensorflow)
+
+### Simulation of OS Components - CPU & I/O Task Scheduler, Memory & Disk, File System
+- Used C to emulate the following components:
+  - multi-threaded CPU/IO task schedulers,
+  - disk and virtual memory access with support of TLB and second-level page table, and
+  - a file system with symbolic links and security constraints.
 
