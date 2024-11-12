@@ -139,7 +139,6 @@
   <img src="./images/PaintingGUI.png" alt="PaintingGUI by Java and SpringLayout" height="360">
   <p style="color: gray; font-size: 14px;">My masterpiece of a beautiful scenary!</p>
   </center>
-  <br></br>
 
 ### User-Book Read and Rating Prediction for Recommendar System
 - Predict *whether a user reads a book* in various approaches and compared their performance, including:
