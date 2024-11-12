@@ -44,7 +44,7 @@
 
 <center>
 <img src="./images/SharedCanvas_PrototypeAndCanvas.png" alt="Prototype of Shared Canvas App" height="300">
-<p style="color: gray; font-size: 14px;"><b>Prototype</b> (Left)  and  <b>Running on a real device</b> (Right)</p>
+<p style="color: gray; font-size: 12px;"><b>Prototype</b> (Left)  and  <b>Running on a real device</b> (Right)</p>
 </center>
 <br></br>
 
@@ -62,7 +62,7 @@
 - (WIP) Migrate to AWS with a local relational database.
 <center>
 <img src="./images/FaruzanSenpai_Showcase.png" alt="Faruzan Senpai's working command responses showcase" height="300">
-<p style="color: gray; font-size: 14px;">Some working command responses (in zh_CN)</p>
+<p style="color: gray; font-size: 12px;">Some working command responses (in zh_CN)</p>
 </center>
 <br></br>
 
@@ -77,9 +77,9 @@
 
 <center>
 <img src="./images/TradeDApp_Showcase_Marketplace.jpg" alt="TradeDApp_Showcase_Marketplace" height="300">
-<p style="color: gray; font-size: 14px;">Marketplace with test items</p>
+<p style="color: gray; font-size: 12px;">Marketplace with test items</p>
 <img src="./images/TradeDApp_Showcase_Inventory.jpg" alt="TradeDApp_Showcase_Inventory" height="300">
-<p style="color: gray; font-size: 14px;">Inventory with item status & Putting Item #9 off sale</p>
+<p style="color: gray; font-size: 12px;">Inventory with item status & Putting Item #9 off sale</p>
 </center>
 <br></br>
 
@@ -94,7 +94,7 @@
         - Beautiful UI in both light & dark mode.
         <center>
         <img src="./images/iOSApp_LionSpell.png" alt="iOSApp_LionSpell" height="400">
-        <p style="color: gray; font-size: 14px;">Solving a 7-char game in dark mode</p>
+        <p style="color: gray; font-size: 12px;">Solving a 7-char game in dark mode</p>
         </center>
         <br></br>
     2. **Pentominoes**
@@ -103,7 +103,7 @@
         - Fluent and beautiful animations based on gesture and piece status.
         <center>
         <img src="./images/iOSApp_Pentominoes_Before_and_after_solved.png" alt="iOSApp_Pentominoes_Before_and_after_solved" height="400">
-        <p style="color: gray; font-size: 14px;">Before and after solved (simulated on 11' and 12.9' iPad Pro)</p>
+        <p style="color: gray; font-size: 12px;">Before and after solved (simulated on 11' and 12.9' iPad Pro)</p>
         </center>
         <br></br>
     3. **Campus Map**
@@ -111,15 +111,15 @@
         - Support favorites, search, filter, data persistence across launches, pins and pop-ups, and step-by-step routing between 2 buildings or from / to current location.
         <center>
         <img src="./images/iOSApp_CampusMap_Showcase.png" alt="iOSApp_CampusMap_Showcase" height="360">
-        <p style="color: gray; font-size: 14px;">Map overview; Building detail and buttons; Route planning; and Step-by-step routing.</p>
+        <p style="color: gray; font-size: 12px;">Map overview; Building detail and buttons; Route planning; and Step-by-step routing.</p>
         </center>
         <br></br>
     4. **Pokédex**
         - A **Pokémon collection** with attribute inquiry, ancestor and successor, and “captured” labels.
         - Dynamically render transition color, index, and status in both List and Detail Views.
         <center>
-        <img src="./images/Pokedex_Showcases.png" alt="Pokedex_Showcases" height="360">
-        <p style="color: gray; font-size: 14px;">Home screen; Detail View; List of Fire Pokémons; "Our favorite!";  Ancestor and successor.</p>
+        <img src="./images/Pokedex_Showcases.png" alt="Pokedex_Showcases" height="320">
+        <p style="color: gray; font-size: 12px;">Home screen; Detail View; List of Fire Pokémons; "Our favorite!";  Ancestor and successor.</p>
         </center>
         <br></br>
 
@@ -137,7 +137,7 @@
   <br></br>
   <center>
   <img src="./images/PaintingGUI.png" alt="PaintingGUI by Java and SpringLayout" height="360">
-  <p style="color: gray; font-size: 14px;">My masterpiece of a beautiful scenary!</p>
+  <p style="color: gray; font-size: 12px;">My masterpiece of a beautiful scenary!</p>
   </center>
   <br></br>
 
