@@ -122,11 +122,11 @@
         <img src="./images/Pokedex_Showcases.png" alt="Pokedex_Showcases" height="320">
         <p style="color: gray; font-size: 12px;">Home screen; Detail View; List of Fire Pokémons; "Our favorite!";  Ancestor and successor.</p>
         </center>
-        <br></br>
 
 ### Minecraft Mod Localizations
 - Localized a bunch of Minecraft Fabric Mods.
 - Report bugs & submit PR's while examining mod logics (for better translation and writing Wiki).
+<br></br>
 
 
 ## Courseworks
