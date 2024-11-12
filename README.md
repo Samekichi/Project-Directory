@@ -85,6 +85,7 @@
 
 
 ### [iOS/iPadOS mini Apps](https://github.com/Samekichi/iOS-App-Projects)
+![Swift](https://img.shields.io/badge/Language-Swift-FA7343?logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/IDE-Xcode-3AA6D8?logo=xcode&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-E28330?logo=swift&logoColor=white)
 
 - A set of iOS Apps that practices my skill. Mostly based on SwiftUI and MVVM principle, with some UIKit and MapKit hacks.
 
@@ -122,6 +123,11 @@
         <p style="color: gray; font-size: 12px;">Home screen; Detail View; List of Fire Pokémons; "Our favorite!";  Ancestor and successor.</p>
         </center>
         <br></br>
+
+### Minecraft Mod Localizations
+- Localized a bunch of Minecraft Fabric Mods.
+- Report bugs & submit PR's while examining mod logics (for better translation and writing Wiki).
+
 
 ## Courseworks
 
