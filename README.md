@@ -1,6 +1,20 @@
 
 > This is a brief summarization for some of the projects I've been working on!
 
+## Table of Contents
+- [Personal Projects](#personal-projects)
+  - [Gravitas: A 2D Tower Defense Indie Game](#gravitas-a-2d-tower-defense-indie-game)
+  - [Shared Canvas: An In-person Collaboration App on iOS/iPadOS](#shared-canvas-an-in-person-collaboration-app-on-iosipados)
+  - [Faruzan Senpai: A Discord Bot for My Private Server](#faruzan-senpai-a-discord-bot-for-my-private-server)
+  - [MC Marketplace: Prototype of a Game Item Marketplace on Ethereum](#mc-marketplace-prototype-of-a-game-item-marketplace-on-ethereum)
+  - [iOS/iPadOS mini Apps](#iosipados-mini-apps)
+  - [Minecraft Mod Localizations](#minecraft-mod-localizations)
+- [Courseworks](#courseworks)
+  - [SVE-Optimized Matrix Multiplication](#sve-optimized-matrix-multiplication)
+  - [Java Painting GUI](#java-painting-gui)
+  - [User-Book Read and Rating Prediction for Recommendar System](#user-book-read-and-rating-prediction-for-recommendar-system)
+  - [Simulation of OS Components - CPU & I/O Task Scheduler, Memory & Disk, File System](#simulation-of-os-components---cpu--io-task-scheduler-memory--disk-file-system)
+
 
 ## Personal Projects
 
