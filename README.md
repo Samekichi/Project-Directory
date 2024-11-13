@@ -148,7 +148,7 @@
 
 ### SVE-Optimized Matrix Multiplication
 - Implemented and modified BLISlab GEMM blocking algorithm in C.
-- Improve row-major matrix multiplication efficiency, reducing cache misses on AWS Ubuntu machines by more than 33%.
+- Improve row-major matrix multiplication efficiency, reducing cache misses on AWS EC2 Ubuntu machines by more than 33%.
 - Accelerated microkernel by 4x with ARM SVE, loop unrolling, and pointer techniques (comparing to naïve).
 
 ### Java Painting GUI
