@@ -75,8 +75,8 @@
 - Was once hosted on Repl.it with its built-in database and stayed alive by up-timer services.
 - (WIP) Migrate to AWS with a local relational database.
 <center>
-<img src="./images/FaruzanSenpai_Showcase.png" alt="Faruzan Senpai's working command responses showcase" height="300">
-<p style="color: gray; font-size: 12px;">Some working command responses (in zh_CN)</p>
+<img src="./images/FaruzanSenpai_Showcase2.png" alt="Faruzan Senpai's working command responses showcase" height="300">
+<p style="color: gray; font-size: 12px;">Some working command responses</p>
 </center>
 <br></br>
 
