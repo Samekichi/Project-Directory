@@ -10,6 +10,7 @@
   - [iOS/iPadOS mini Apps](#iosipados-mini-apps)
   - [Minecraft Mod Localizations](#minecraft-mod-localizations)
 - [Courseworks](#courseworks)
+  - [Disney-BSDF-forLa-Jolla-Renderer](#disney-bsdf-for-la-jolla-renderer)
   - [SVE-Optimized Matrix Multiplication](#sve-optimized-matrix-multiplication)
   - [Java Painting GUI](#java-painting-gui)
   - [User-Book Read and Rating Prediction for Recommendar System](#user-book-read-and-rating-prediction-for-recommendar-system)
@@ -145,6 +146,20 @@
 
 ## Courseworks
 
+
+### Disney BSDF for La Jolla Renderer
+- Utilized C++ `std::variant` pattern to implement Disney BSDF materials in *[La Jolla](https://github.com/BachiLi/lajolla_public)* renderer:
+  1. Diffuse with subsurface
+  2. Metal
+  3. Clearcoat
+  4. Glass
+  5. Sheen
+- Converted a general Blender scene to La Jolla and rendered correctly (image to be uploaded.)
+  <br></br>
+  <center>
+  <img src="./images/DisneyBSDF_Glass.png" alt="Sample scene of DisneyGlass material." height="360">
+  <p style="color: gray; font-size: 12px;">A rendered sample using DisneyGlass material</p>
+  </center>
 
 ### SVE-Optimized Matrix Multiplication
 - Implemented and modified BLISlab GEMM blocking algorithm in C.
