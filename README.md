@@ -147,7 +147,7 @@
 ## Courseworks
 
 
-### Disney BSDF for La Jolla Renderer
+### [Disney BSDF for La Jolla Renderer](https://github.com/Samekichi/La_Jolla_with_Disney_BSDF)
 - Utilized C++ `std::variant` pattern to implement Disney BSDF materials in *[La Jolla](https://github.com/BachiLi/lajolla_public)* renderer:
   1. Diffuse with subsurface
   2. Metal
