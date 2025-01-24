@@ -154,10 +154,16 @@
   3. Clearcoat
   4. Glass
   5. Sheen
-- Converted a general Blender scene to La Jolla and rendered correctly (image to be uploaded.)
+- Converted a general Blender scene to La Jolla and rendered correctly.
+
+
   <br></br>
   <center>
-  <img src="./images/DisneyBSDF_Glass.png" alt="Sample scene of DisneyGlass material." height="360">
+  <img src="./images/DisneyBSDF_Blender_Showcase.png" alt="Blender converted scene using Disney BSDF." height="360">
+  <p style="color: gray; font-size: 12px;">A rendered Blender-converted scene using DisneyBSDF. </p>
+  </center>
+  <center>
+  <img src="./images/DisneyBSDF_Glass.png" alt="Sample scene of DisneyGlass material." height="300">
   <p style="color: gray; font-size: 12px;">A rendered sample using DisneyGlass material</p>
   </center>
 
