@@ -160,14 +160,19 @@
   3. Clearcoat
   4. Glass
   5. Sheen
-- Converted a general Blender scene to La Jolla and rendered correctly.
+- Converted a self-made Blender scene to La Jolla and rendered correctly.
 
 
   <br></br>
   <center>
   <img src="./images/DisneyBSDF_Blender_Showcase.png" alt="Blender converted scene using Disney BSDF." height="360">
-  <p style="color: gray; font-size: 12px;">A rendered Blender-converted scene using DisneyBSDF. </p>
+  <p style="color: gray; font-size: 12px;">A rendered self-made Blender scene using DisneyBSDF. </p>
   </center>
+  <center>
+  <img src="./images/Volumetric_Path_Tracing_Showcase.png" alt="Blender converted scene with volumes." height="360">
+  <p style="color: gray; font-size: 12px;">Volumetric version of the scene above.<br> Foggy air, a blue volumetric interior of the ice cube, and a softer ice cream ball.</p>
+  </center>
+
   <center>
   <img src="./images/DisneyBSDF_Glass.png" alt="Sample scene of DisneyGlass material." height="300">
   <p style="color: gray; font-size: 12px;">A rendered sample using DisneyGlass material</p>
