@@ -65,18 +65,24 @@
 
 
 ### [Faruzan Senpai: A Discord Bot for My Private Server](https://github.com/Samekichi/DiscordBot-Faruzan_Senpai)
- ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Discord.js](https://img.shields.io/badge/Library-Discord.js-5865F2?logo=discord&logoColor=white) ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Discord.js](https://img.shields.io/badge/Library-Discord.js-5865F2?logo=discord&logoColor=white) ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white) ![ChatGPT API](https://img.shields.io/badge/API-ChatGPT-00A67E?logo=openai&logoColor=white) ![Spotify API](https://img.shields.io/badge/API-Spotify-1DB954?logo=spotify&logoColor=white)  
 
-- A Discord Bot for my private server need (messages are in zh_CN, but multilingual support is planned), such as:
+
+- A **Discord Bot** for my private server need (multilingual support is planned), such as:
     - User's daily luck
     - Game server time getter
     - Slash Command stats
     - Basic game Wiki inquiry
+    - User Title system
     - ...
-- Was once hosted on Repl.it with its built-in database and stayed alive by up-timer services.
-- (WIP) Migrate to AWS with a local relational database.
+- Now on **AWS** with a local **PostgreSQL** database.
+- Other features planned:
+    - **Redis** cache layer
+    - Enhanced User Title system
+    - **Chat bot** integration (ChatGPT/DeepSeek API)
+    - Spotify/NetEase Music integration
 <center>
-<img src="./images/FaruzanSenpai_Showcase2.png" alt="Faruzan Senpai's working command responses showcase" height="300">
+<img src="./images/FaruzanSenpai_Showcase3.png" alt="Faruzan Senpai's working command responses showcase" width="600">
 <p style="color: gray; font-size: 12px;">Some working command responses</p>
 </center>
 <br></br>
