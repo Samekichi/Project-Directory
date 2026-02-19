@@ -50,7 +50,7 @@
 <br></br>
 
 
-### [Shared Canvas: An In-person Collaboration App on iOS/iPadOS](https://github.com/Samekichi/iOS-App-Projects/tree/main/Shared%20Canvas)
+### Shared Canvas: An In-person Collaboration App on iOS/iPadOS
 ![Swift](https://img.shields.io/badge/Language-Swift-FA7343?logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/IDE-Xcode-3AA6D8?logo=xcode&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-E28330?logo=swift&logoColor=white) ![Swift Data](https://img.shields.io/badge/Swift%20Data-E28330?logo=swift&logoColor=white) ![Multi Peer](https://img.shields.io/badge/Multi%20Peer-E28330?logo=swift&logoColor=white)
 
 - Focused on small groups of in-person meetings.
@@ -66,7 +66,7 @@
 <br></br>
 
 
-### [Faruzan Senpai: A Discord Bot for My Private Server, integrating AI / LLM Features](https://github.com/Samekichi/DiscordBot-Faruzan_Senpai)
+### Faruzan Senpai: A Discord Bot for My Private Server, integrating AI / LLM Features
  ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Discord.js](https://img.shields.io/badge/Library-Discord.js-5865F2?logo=discord&logoColor=white) ![OpenAI API](https://img.shields.io/badge/API-OpenAI-00A67E?logo=openai&logoColor=white) ![MiniMax M2.5](https://img.shields.io/badge/MiniMax%20M2.5-000000?labelColor=000000&logo=minimax&logoColor=white) ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MikroORM](https://img.shields.io/badge/ORM-MikroORM-0F766E)
 
 
@@ -93,7 +93,7 @@
 <br></br>
 
 
-### [MC Marketplace: Prototype of a Game Item Marketplace on Ethereum](https://github.com/Samekichi/Prototype-Trade-Web3-DApp)
+### MC Marketplace: Prototype of a Game Item Marketplace on Ethereum
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Solidity](https://img.shields.io/badge/Language-Solidity-363636?logo=solidity&logoColor=white) ![VS Code](https://img.shields.io/badge/Tool-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs&logoColor=white) ![Web3.js](https://img.shields.io/badge/Library-Web3.js-F16822?logo=javascript&logoColor=white)
  ![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white) ![Sepolia Testnet](https://img.shields.io/badge/Sepolia-3C3C3D?logo=ethereum&logoColor=white) ![Alchemy](https://img.shields.io/badge/Platform-Alchemy-0E76FD?logo=alchemy&logoColor=white)
 
@@ -110,7 +110,7 @@
 <br></br>
 
 
-### [iOS/iPadOS mini Apps](https://github.com/Samekichi/iOS-App-Projects)
+### iOS/iPadOS mini Apps
 ![Swift](https://img.shields.io/badge/Language-Swift-FA7343?logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/IDE-Xcode-3AA6D8?logo=xcode&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-E28330?logo=swift&logoColor=white)
 
 - A set of iOS Apps that practices my skill. Mostly based on SwiftUI and MVVM principle, with some UIKit and MapKit hacks.
@@ -158,7 +158,7 @@
 ## Courseworks
 
 
-### [Disney BSDF for La Jolla Renderer](https://github.com/Samekichi/La_Jolla_with_Disney_BSDF)
+### Disney BSDF for La Jolla Renderer
 - Utilized C++ `std::variant` pattern to implement Disney BSDF materials in *[La Jolla](https://github.com/BachiLi/lajolla_public)* renderer:
   1. Diffuse with subsurface
   2. Metal
@@ -185,14 +185,18 @@
 
 
 ### LLM-powered Emoji-to-Text Translator on Slack & Web
+ ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-00A67E?logo=openai&logoColor=white) ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-111827?logo=openrouter&logoColor=white)
+
+
 - With my great team members, developed a full-stack translation platform using FastAPI and React, accelerated development lifecycle by ~40% through AI-assisted planning and auto test suite integration.
 - Engineered a high-concurrency **"Model Racing" architecture** using Python Asyncio to **parallelize requests across LLMs, reducing P99 latency by >300ms to meet 1-second RAIL performance standards.**
 - Designed a lightweight RAG (Retrieval-Augmented Generation) system using sentence-transformers and local vector search, improving per-user accuracy by adding user’s feedback as context to LLM prompt. 
 - Built modular RESTful APIs for translation and feedback. Ensured scalability and deployability via Docker.
   <br></br>
   <center>
-  <img src="./images/GenZlatorV2_Showcase2.png" alt="Slack App showcase 1" width="500">
-  <img src="./images/GenZlatorV2_Showcase1.png" alt="Slack App showcase 2" height="450">
+  <img src="./images/GenZlatorV2_Showcase1.png" alt="Slack App showcase 1" height="450">
+  <img src="./images/GenZlatorV2_Showcase2.png" alt="Slack App showcase 2" width="500">
+  <br></br>
   <img src="./images/GenZlatorV2_Showcase3.png" alt="Slack App showcase 3" height="350">
   <p style="color: gray; font-size: 12px;">Slack App & Web App showcases</p>
   </center>
