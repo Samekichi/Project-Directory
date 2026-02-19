@@ -2,19 +2,21 @@
 > This is a brief summarization for some of the projects I've been working on!
 
 ## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Personal Projects](#personal-projects)
   - [Gravitas: A 2D Tower Defense Indie Game](#gravitas-a-2d-tower-defense-indie-game)
   - [Shared Canvas: An In-person Collaboration App on iOS/iPadOS](#shared-canvas-an-in-person-collaboration-app-on-iosipados)
-  - [Faruzan Senpai: A Discord Bot for My Private Server](#faruzan-senpai-a-discord-bot-for-my-private-server)
+  - [Faruzan Senpai: A Discord Bot for My Private Server, integrating AI / LLM Features](#faruzan-senpai-a-discord-bot-for-my-private-server-integrating-ai--llm-features)
   - [MC Marketplace: Prototype of a Game Item Marketplace on Ethereum](#mc-marketplace-prototype-of-a-game-item-marketplace-on-ethereum)
   - [iOS/iPadOS mini Apps](#iosipados-mini-apps)
   - [Minecraft Mod Localizations](#minecraft-mod-localizations)
 - [Courseworks](#courseworks)
-  - [Disney-BSDF-forLa-Jolla-Renderer](#disney-bsdf-for-la-jolla-renderer)
+  - [Disney BSDF for La Jolla Renderer](#disney-bsdf-for-la-jolla-renderer)
+  - [LLM-powered Emoji-to-Text Translator on Slack \& Web](#llm-powered-emoji-to-text-translator-on-slack--web)
   - [SVE-Optimized Matrix Multiplication](#sve-optimized-matrix-multiplication)
   - [Java Painting GUI](#java-painting-gui)
   - [User-Book Read and Rating Prediction for Recommendar System](#user-book-read-and-rating-prediction-for-recommendar-system)
-  - [Simulation of OS Components - CPU & I/O Task Scheduler, Memory & Disk, File System](#simulation-of-os-components---cpu--io-task-scheduler-memory--disk-file-system)
+  - [Simulation of OS Components - CPU \& I/O Task Scheduler, Memory \& Disk, File System](#simulation-of-os-components---cpu--io-task-scheduler-memory--disk-file-system)
 
 
 ## Personal Projects
@@ -64,11 +66,13 @@
 <br></br>
 
 
-### [Faruzan Senpai: A Discord Bot for My Private Server](https://github.com/Samekichi/DiscordBot-Faruzan_Senpai)
- ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Discord.js](https://img.shields.io/badge/Library-Discord.js-5865F2?logo=discord&logoColor=white) ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white) ![ChatGPT API](https://img.shields.io/badge/API-ChatGPT-00A67E?logo=openai&logoColor=white) ![Spotify API](https://img.shields.io/badge/API-Spotify-1DB954?logo=spotify&logoColor=white)  
+### [Faruzan Senpai: A Discord Bot for My Private Server, integrating AI / LLM Features](https://github.com/Samekichi/DiscordBot-Faruzan_Senpai)
+ ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![Discord.js](https://img.shields.io/badge/Library-Discord.js-5865F2?logo=discord&logoColor=white) ![OpenAI API](https://img.shields.io/badge/API-OpenAI-00A67E?logo=openai&logoColor=white) ![MiniMax M2.5](https://img.shields.io/badge/MiniMax%20M2.5-000000?labelColor=000000&logo=minimax&logoColor=white) ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MikroORM](https://img.shields.io/badge/ORM-MikroORM-0F766E)
 
 
 - A **Discord Bot** for my private server need (multilingual support is planned), such as:
+    - **Daily AI summary** for registered guild channels
+    - **LLM chats**
     - User's daily luck
     - Game server time getter
     - Slash Command stats
@@ -76,14 +80,15 @@
     - User Title system
     - ...
 - Now on **AWS** with a local **PostgreSQL** database.
-- Other features planned:
+- Other features:
     - **Redis** cache layer
     - Enhanced User Title system
-    - **Chat bot** integration (ChatGPT/DeepSeek API)
-    - Spotify/NetEase Music integration
+    - Spotify/NetEase Music integration (planned)
 <center>
-<img src="./images/FaruzanSenpai_Showcase3.png" alt="Faruzan Senpai's working command responses showcase" width="600">
-<p style="color: gray; font-size: 12px;">Some working command responses</p>
+<img src="./images/FaruzanSenpai_Showcase4.png" alt="Faruzan Senpai's working command responses showcase - AI summary" width="600">
+<p style="color: gray; font-size: 12px;">Scheduled daily AI summary for a text channel of my guild, with discord links to source messages</p>
+<img src="./images/FaruzanSenpai_Showcase3.png" alt="Faruzan Senpai's working command responses showcase - title system" width="600">
+<p style="color: gray; font-size: 12px;">Some other command responses (title system)</p>
 </center>
 <br></br>
 
@@ -177,6 +182,21 @@
   <img src="./images/DisneyBSDF_Glass.png" alt="Sample scene of DisneyGlass material." height="300">
   <p style="color: gray; font-size: 12px;">A rendered sample using DisneyGlass material</p>
   </center>
+
+
+### LLM-powered Emoji-to-Text Translator on Slack & Web
+- With my great team members, developed a full-stack translation platform using FastAPI and React, accelerated development lifecycle by ~40% through AI-assisted planning and auto test suite integration.
+- Engineered a high-concurrency **"Model Racing" architecture** using Python Asyncio to **parallelize requests across LLMs, reducing P99 latency by >300ms to meet 1-second RAIL performance standards.**
+- Designed a lightweight RAG (Retrieval-Augmented Generation) system using sentence-transformers and local vector search, improving per-user accuracy by adding user’s feedback as context to LLM prompt. 
+- Built modular RESTful APIs for translation and feedback. Ensured scalability and deployability via Docker.
+  <br></br>
+  <center>
+  <img src="./images/GenZlatorV2_Showcase2.png" alt="Slack App showcase 1" width="500">
+  <img src="./images/GenZlatorV2_Showcase1.png" alt="Slack App showcase 2" height="450">
+  <img src="./images/GenZlatorV2_Showcase3.png" alt="Slack App showcase 3" height="350">
+  <p style="color: gray; font-size: 12px;">Slack App & Web App showcases</p>
+  </center>
+
 
 ### SVE-Optimized Matrix Multiplication
 - Implemented and modified BLISlab GEMM blocking algorithm in C.
